@@ -1,0 +1,3 @@
+[submodule "common-lib-shared"]
+	path = common-lib-shared
+	url = https://github.ibm.com/Ashish-Anand-Singh/common-lib-shared.git
